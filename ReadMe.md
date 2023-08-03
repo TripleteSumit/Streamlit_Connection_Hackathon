@@ -30,7 +30,7 @@ streamlit run app.py
 
 3. If you wish to explore another genre, you can simply select a different genre from the dropdown menu and repeat the steps above.
 
-4. Find the live [project link]()
+4. Find the live [project link](https://mfcustomconnection.streamlit.app/)
 
 ## Notes
 
